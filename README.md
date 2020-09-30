@@ -14,7 +14,7 @@ Datarhei/Restreamer offers smart free video streaming. Stream H.264 video of IP 
 ## Documentation
 
 Documentation is available on [Datarhei/Restreamer GitHub pages](https://datarhei.github.io/restreamer/).
-We give you a lot of of informations from setting up a camera, embedding your player upon your website and streaming to services like e.g. YouTube-Live, Ustream and Livestream.com and many more things. 
+We give you a lot of informations from setting up a camera, embedding your player upon your website and streaming to services like e.g. YouTube-Live, Ustream and Livestream.com and many more things. 
 
 More additional informations about streaming, cameras and so on you can find in our [Wiki](https://datarhei.github.com/restreamer/wiki). 
 
